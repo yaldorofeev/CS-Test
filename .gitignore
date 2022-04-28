@@ -1,0 +1,13 @@
+node_modules
+.env
+.eslintignore
+.eslintrc.js
+coverage.json
+/coverage/*
+!/coverage/index.html
+
+typechain
+
+#Hardhat files
+cache
+artifacts
